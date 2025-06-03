@@ -1,11 +1,4 @@
 # scripts/q2_state_analysis.R
-# ------------------------------------------------------------
-# Task 2: Calculate, for each state:
-#   - avg_star (average of stars)
-#   - num_reviews  (count of review‐rows)
-#   - num_users    (count of distinct users)
-# Then visualize avg_star by state.
-# ------------------------------------------------------------
 library(tidyverse)
 library(knitr)
 library(kableExtra)
