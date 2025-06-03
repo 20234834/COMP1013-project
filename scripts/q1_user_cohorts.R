@@ -1,8 +1,6 @@
 # scripts/q1_user_cohorts.R
-# ------------------------------------------------------------
 # Task 1: Group users into Veteran/Intermediate/New based on member_since
 # and compute #users, avg review stars, avg reviews per user.
-# ------------------------------------------------------------
 library(tidyverse)
 library(lubridate)
 library(knitr)
