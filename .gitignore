@@ -1,0 +1,13 @@
+# RStudio, R, bytecode
+.Rproj.user/
+*.Rhistory
+*.RData
+
+# Windows
+Thumbs.db
+
+# Figures
+figures/*.Rds
+
+# Report folder
+report/*.html
